@@ -3,3 +3,4 @@ markdown: kramdown
 kramdown:
   input: GFM # Используем GitHub Flavored Markdown
   syntax_highlighter: rouge
+nav_order: 1
