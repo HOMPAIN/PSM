@@ -1,4 +1,4 @@
-theme: jekyll-theme-midnight 
+remote_theme: pmarsceill/just-the-docs
 markdown: kramdown
 kramdown:
   input: GFM # Используем GitHub Flavored Markdown
