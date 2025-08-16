@@ -12,7 +12,7 @@
 ## Утилита обновления прошивки
 Утилита для обновления прошивки контроллера. 
 Подробное описание доступно в разделе [Обновление прошивки](4-obnovlenie-proshivki).
-![](fw_update.png)
+![](/img/fw_update.png)
 # Android
 Для **Android** используется стандартное приложение, реализующее BLE Терминал. Наиболее удобное [BLE Terminal](https://play.google.com/store/apps/details?id=com.mightyit.gops.bleterminal&hl=en). 
 ![https://play-lh.googleusercontent.com/O1mO9XYyjQ4TrmOPRTM3-WubYtCqBBFmBXj8D_fA1VSdh1qCv_stl5rhEOQ8tbRjG76D=w480-h960-rw](https://play-lh.googleusercontent.com/O1mO9XYyjQ4TrmOPRTM3-WubYtCqBBFmBXj8D_fA1VSdh1qCv_stl5rhEOQ8tbRjG76D=s128-rw)  
