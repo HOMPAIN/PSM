@@ -1,4 +1,4 @@
-# 0. Pulsar Scooter Mini
+# 0 Pulsar Scooter Mini
 **Pulsar Scooter Mini (PSM)** - это контроллер электродвигателя BLDC для лёгкого электротранспорта.
 
 | Параметр               | Значение                                                                  |
