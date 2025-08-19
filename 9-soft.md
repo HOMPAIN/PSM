@@ -14,7 +14,9 @@
 Подробное описание доступно в разделе [Обновление прошивки](4-obnovlenie-proshivki).
 ![](/img/fw_update.png)
 # Android
-Для **Android** используется стандартное приложение, реализующее BLE Терминал. Наиболее удобное [BLE Terminal](https://play.google.com/store/apps/details?id=com.mightyit.gops.bleterminal&hl=en). 
+Для **Android** используется стандартное приложение, реализующее BLE Терминал. Наиболее удобное по моему мнению [BLE Terminal](https://play.google.com/store/apps/details?id=com.mightyit.gops.bleterminal&hl=en). Также можно попробовать и другие приложения из маркета.
 ![https://play-lh.googleusercontent.com/O1mO9XYyjQ4TrmOPRTM3-WubYtCqBBFmBXj8D_fA1VSdh1qCv_stl5rhEOQ8tbRjG76D=w480-h960-rw](https://play-lh.googleusercontent.com/O1mO9XYyjQ4TrmOPRTM3-WubYtCqBBFmBXj8D_fA1VSdh1qCv_stl5rhEOQ8tbRjG76D=s128-rw)  
+На **Android** приложению необходимо дать разрешение на поиск устройств по близости. Затем в приложении найти устройство с названием вида `ImpESC_xxxx` и подключиться к нему.  
+![Подключение](/img/connect.jpg)
 # iPhone
 Работа на **iPhone** не тестировалась.
